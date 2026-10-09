@@ -4,9 +4,9 @@ Aspiring **Data Analyst / AI-ML Engineer** based in Bengaluru, India.
 I build practical machine-learning projects, from image classification to NLP chatbots and stock analysis.
 
 ### 🛠️ Skills
-**Languages:** Python, SQL, JavaScript
-**ML / AI:** PyTorch, scikit-learn, Pandas, NumPy, NLP, Computer Vision, Prompt Engineering
-**Tools:** Jupyter, Streamlit, Git, VS Code
+- **Languages:** Python, SQL, JavaScript
+- **ML / AI:** PyTorch, scikit-learn, Pandas, NumPy, NLP, Computer Vision, Prompt Engineering
+- **Tools:** Jupyter, Streamlit, Git, VS Code
 
 ### 🚀 Featured Projects
 - **[Brain Tumor Classifier](https://github.com/Ambar103/brain-tumor-streamlit)**: Deep-learning MRI classifier with a Streamlit web app

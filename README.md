@@ -1,4 +1,5 @@
-# Hi, I'm Ambar 👋
+# Hi, I'm Ambar
+
 
 Aspiring **Data Analyst / AI-ML Engineer** based in Bengaluru, India.
 I build practical machine-learning projects, from image classification to NLP chatbots and stock analysis.
